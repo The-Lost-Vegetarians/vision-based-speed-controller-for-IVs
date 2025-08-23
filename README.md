@@ -1,16 +1,6 @@
 # Traffic Signs and Speed bump Detection
 & pathcode (pothole)
 
-# Traffic Signs and Speed bump Detection
-& pathcode (pothole)
-
-
-Absolutely 👍
-Here’s a **GitHub README template** for your project. It’s structured, professional, and also student-friendly so that it’s easy to present to your peers, faculty, or future contributors.
-
----
-
-# CS and CV: Vision-Based Intelligent Vehicle System (IVS) with Speed Control 🚗💡
 
 ## 📌 Project Overview
 
